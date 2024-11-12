@@ -86,4 +86,3 @@ These instructions will help you set up the project locally for development and 
 **Note**: Make sure to configure any required data files or databases as specified in the code to ensure smooth functionality.
 
 ---
-```
